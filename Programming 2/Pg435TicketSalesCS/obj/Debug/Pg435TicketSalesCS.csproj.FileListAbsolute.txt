@@ -1,0 +1,11 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.GeneralForm.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.StudentForm.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.csprojResolveAssemblyReference.cache

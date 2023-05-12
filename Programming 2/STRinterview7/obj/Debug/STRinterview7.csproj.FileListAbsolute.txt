@@ -1,0 +1,6 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\STRinterview7\bin\Debug\STRinterview7.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\STRinterview7\bin\Debug\STRinterview7.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\STRinterview7\bin\Debug\STRinterview7.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\STRinterview7\obj\Debug\STRinterview7.csprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\STRinterview7\obj\Debug\STRinterview7.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\STRinterview7\obj\Debug\STRinterview7.pdb

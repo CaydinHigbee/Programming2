@@ -1,0 +1,9 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54a\bin\Debug\Lang54a.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54a\bin\Debug\Lang54a.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54a\bin\Debug\Lang54a.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54a\obj\Debug\Lang54a.csprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54a\obj\Debug\Lang54a.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54a\obj\Debug\Lang54a.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54a\obj\Debug\Lang54a.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54a\obj\Debug\Lang54a.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54a\obj\Debug\Lang54a.pdb

@@ -1,0 +1,9 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang366b\bin\Debug\Lang366b.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang366b\bin\Debug\Lang366b.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang366b\bin\Debug\Lang366b.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang366b\obj\Debug\Lang366b.csprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang366b\obj\Debug\Lang366b.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang366b\obj\Debug\Lang366b.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang366b\obj\Debug\Lang366b.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang366b\obj\Debug\Lang366b.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang366b\obj\Debug\Lang366b.pdb

@@ -1,0 +1,12 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\higbee.c\Documents\GitHub\Programming2\Programming 2\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\higbee.c\Documents\GitHub\Programming2\Programming 2\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\higbee.c\Documents\GitHub\Programming2\Programming 2\HelloWorld\obj\Debug\HelloWorld.pdb

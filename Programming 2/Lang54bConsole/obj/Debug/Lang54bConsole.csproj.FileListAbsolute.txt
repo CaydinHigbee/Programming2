@@ -1,0 +1,5 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bConsole\bin\Debug\Lang54bConsole.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bConsole\bin\Debug\Lang54bConsole.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bConsole\bin\Debug\Lang54bConsole.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bConsole\obj\Debug\Lang54bConsole.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bConsole\obj\Debug\Lang54bConsole.pdb

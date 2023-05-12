@@ -1,0 +1,9 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\pg347sum\bin\Debug\pg347sum.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\pg347sum\bin\Debug\pg347sum.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\pg347sum\bin\Debug\pg347sum.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\pg347sum\obj\Debug\pg347sum.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\pg347sum\obj\Debug\pg347sum.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\pg347sum\obj\Debug\pg347sum.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\pg347sum\obj\Debug\pg347sum.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\pg347sum\obj\Debug\pg347sum.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\pg347sum\obj\Debug\pg347sum.csprojResolveAssemblyReference.cache

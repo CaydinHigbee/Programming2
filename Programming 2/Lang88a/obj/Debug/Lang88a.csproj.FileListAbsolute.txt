@@ -1,0 +1,9 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang88a\bin\Debug\Lang88a.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang88a\bin\Debug\Lang88a.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang88a\bin\Debug\Lang88a.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang88a\obj\Debug\Lang88a.csprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang88a\obj\Debug\Lang88a.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang88a\obj\Debug\Lang88a.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang88a\obj\Debug\Lang88a.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang88a\obj\Debug\Lang88a.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang88a\obj\Debug\Lang88a.pdb

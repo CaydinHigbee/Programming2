@@ -1,0 +1,12 @@
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\bin\Debug\MenuDemo.exe.config
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\bin\Debug\MenuDemo.exe
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\bin\Debug\MenuDemo.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\bin\Debug\IronPython.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\bin\Debug\IronPython.Modules.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\bin\Debug\Microsoft.Scripting.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\obj\Debug\MenuDemo.pyprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\obj\Debug\MenuDemo.MainForm.resources
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\obj\Debug\MenuDemo.pyproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Programming 2-1\MenuDemo\MenuDemo\obj\Debug\MenuDemo.exe

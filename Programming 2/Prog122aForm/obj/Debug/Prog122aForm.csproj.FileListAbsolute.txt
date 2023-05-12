@@ -1,0 +1,9 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122aForm\bin\Debug\Prog122aForm.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122aForm\bin\Debug\Prog122aForm.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122aForm\bin\Debug\Prog122aForm.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122aForm\obj\Debug\Prog122aForm.csprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122aForm\obj\Debug\Prog122aForm.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122aForm\obj\Debug\Prog122aForm.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122aForm\obj\Debug\Prog122aForm.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122aForm\obj\Debug\Prog122aForm.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122aForm\obj\Debug\Prog122aForm.pdb

@@ -1,0 +1,5 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\CalcWithFunctions\bin\Debug\CalcWithFunctions.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\CalcWithFunctions\bin\Debug\CalcWithFunctions.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\CalcWithFunctions\bin\Debug\CalcWithFunctions.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\CalcWithFunctions\obj\Debug\CalcWithFunctions.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\CalcWithFunctions\obj\Debug\CalcWithFunctions.pdb

@@ -1,0 +1,14 @@
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\obj\Debug\TicketSales.pyprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\obj\Debug\TicketSales.frmGeneral.resources
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\obj\Debug\TicketSales.frmStudent.resources
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\obj\Debug\TicketSales.MainForm.resources
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\obj\Debug\TicketSales.pyproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\bin\Debug\TicketSales.exe.config
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\bin\Debug\TicketSales.exe
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\bin\Debug\TicketSales.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\bin\Debug\IronPython.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\bin\Debug\IronPython.Modules.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\bin\Debug\Microsoft.Scripting.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\TicketSales\TicketSales\obj\Debug\TicketSales.exe

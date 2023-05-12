@@ -1,0 +1,9 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273BookClub\bin\Debug\Pg273BookClub.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273BookClub\bin\Debug\Pg273BookClub.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273BookClub\bin\Debug\Pg273BookClub.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273BookClub\obj\Debug\Pg273BookClub.csprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273BookClub\obj\Debug\Pg273BookClub.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273BookClub\obj\Debug\Pg273BookClub.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273BookClub\obj\Debug\Pg273BookClub.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273BookClub\obj\Debug\Pg273BookClub.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273BookClub\obj\Debug\Pg273BookClub.pdb

@@ -1,0 +1,14 @@
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\bin\Debug\pg479ConferenceRegistration.exe.config
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\bin\Debug\pg479ConferenceRegistration.exe
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\bin\Debug\pg479ConferenceRegistration.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\bin\Debug\IronPython.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\bin\Debug\IronPython.Modules.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\bin\Debug\Microsoft.Scripting.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\obj\Debug\pg479ConferenceRegistration.pyprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\obj\Debug\pg479ConferenceRegistration.Conference Options.resources
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\obj\Debug\pg479ConferenceRegistration.MainForm.resources
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\obj\Debug\pg479ConferenceRegistration.pyproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\obj\Debug\pg479ConferenceRegistration.exe
+C:\Users\higbee.c\Desktop\Programming 2-1\pg479ConferenceRegistration\pg479ConferenceRegistration\obj\Debug\pg479ConferenceRegistration.ConferenceOptions.resources

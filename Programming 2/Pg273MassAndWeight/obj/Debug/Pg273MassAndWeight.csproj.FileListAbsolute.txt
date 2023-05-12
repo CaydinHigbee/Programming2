@@ -1,0 +1,9 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273MassAndWeight\bin\Debug\Pg273MassAndWeight.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273MassAndWeight\bin\Debug\Pg273MassAndWeight.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273MassAndWeight\bin\Debug\Pg273MassAndWeight.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.csprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.pdb

@@ -1,0 +1,8 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122bForm\bin\Debug\Prog122bForm.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122bForm\bin\Debug\Prog122bForm.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122bForm\bin\Debug\Prog122bForm.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122bForm\obj\Debug\Prog122bForm.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122bForm\obj\Debug\Prog122bForm.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122bForm\obj\Debug\Prog122bForm.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122bForm\obj\Debug\Prog122bForm.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Prog122bForm\obj\Debug\Prog122bForm.pdb

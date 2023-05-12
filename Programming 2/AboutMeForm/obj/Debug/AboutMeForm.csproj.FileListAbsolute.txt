@@ -1,0 +1,8 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\AboutMeForm\bin\Debug\AboutMeForm.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\AboutMeForm\bin\Debug\AboutMeForm.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\AboutMeForm\bin\Debug\AboutMeForm.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\AboutMeForm\obj\Debug\AboutMeForm.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\AboutMeForm\obj\Debug\AboutMeForm.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\AboutMeForm\obj\Debug\AboutMeForm.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\AboutMeForm\obj\Debug\AboutMeForm.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\AboutMeForm\obj\Debug\AboutMeForm.pdb

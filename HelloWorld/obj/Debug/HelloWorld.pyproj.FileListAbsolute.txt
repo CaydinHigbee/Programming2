@@ -1,0 +1,10 @@
+C:\Users\higbee.c\Desktop\Programming 2-1\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\higbee.c\Desktop\Programming 2-1\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\higbee.c\Desktop\Programming 2-1\HelloWorld\bin\Debug\HelloWorld.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\HelloWorld\bin\Debug\IronPython.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\HelloWorld\bin\Debug\IronPython.Modules.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\HelloWorld\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\HelloWorld\bin\Debug\Microsoft.Scripting.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\HelloWorld\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\HelloWorld\obj\Debug\HelloWorld.pyprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Programming 2-1\HelloWorld\obj\Debug\HelloWorld.exe

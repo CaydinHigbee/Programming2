@@ -1,0 +1,8 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bForm\bin\Debug\Lang54bForm.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bForm\bin\Debug\Lang54bForm.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bForm\bin\Debug\Lang54bForm.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bForm\obj\Debug\Lang54bForm.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bForm\obj\Debug\Lang54bForm.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bForm\obj\Debug\Lang54bForm.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bForm\obj\Debug\Lang54bForm.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Lang54bForm\obj\Debug\Lang54bForm.pdb

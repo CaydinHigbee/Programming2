@@ -1,0 +1,9 @@
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg334LoanCalculator\bin\Debug\Pg334LoanCalculator.exe.config
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg334LoanCalculator\bin\Debug\Pg334LoanCalculator.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg334LoanCalculator\bin\Debug\Pg334LoanCalculator.pdb
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.csprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.Form1.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.Properties.Resources.resources
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.csproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.exe
+C:\Users\higbee.c\Desktop\Pregramming 2\Programming 2\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.pdb

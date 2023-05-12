@@ -1,0 +1,12 @@
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\bin\Debug\FavoriteMovie.exe.config
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\bin\Debug\FavoriteMovie.exe
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\bin\Debug\FavoriteMovie.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\bin\Debug\IronPython.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\bin\Debug\IronPython.Modules.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\bin\Debug\Microsoft.Scripting.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\obj\Debug\FavoriteMovie.pyprojResolveAssemblyReference.cache
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\obj\Debug\FavoriteMovie.MainForm.resources
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\obj\Debug\FavoriteMovie.pyproj.GenerateResource.Cache
+C:\Users\higbee.c\Desktop\Programming 2-1\FavoriteMovie\obj\Debug\FavoriteMovie.exe
